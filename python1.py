@@ -24,6 +24,3 @@ elif a == 10:
     print("your zodiac sign is horse")
 else:
     print("your zodiac sign is goat")
-
-
-
