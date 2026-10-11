@@ -1,6 +1,10 @@
 # Python-Lab1-ConditionalStatements
 Python Lab 1: Conditional Statements
 
+Author:
+Name: Ismat Gurbanov
+University: Kharabakh Uiversity
+
 Description
 This project is created for Laboratory Assignment 1 in the Introduction to Python Programming course. The goal is to practice conditional statements in Python.
 
@@ -26,3 +30,4 @@ How to Run
 
 ```bash
 python bmi_calculator.py
+
