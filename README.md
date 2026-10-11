@@ -23,8 +23,9 @@ How to Run
 3. Open the terminal.
 4. Run a Python file using the following command:
 
-bash python bmi_calculator.py
-Replace bash bmi_calculator.py with the name of the program you want to run.
+'''bash 
+python bmi_calculator.py
+Replace  bmi_calculator.py with the name of the program you want to run.
 
 Examples
 Add screenshots of the programs and their outputs after testing them.
