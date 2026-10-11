@@ -96,7 +96,6 @@ def main():
         elif choice == '4':
             print("Exiting program. Goodbye!")
             break
-            
         else:
             print("Invalid choice! Please select a number between 1 and 4.")
 
